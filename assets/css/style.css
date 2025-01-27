@@ -270,7 +270,7 @@ a:hover {
   top: -8px;
   transform: rotateY(-90deg);
 }
-.preloader p {
+.preloader D {
   font-size: 15px;
   font-weight: 600;
   text-transform: uppercase;
